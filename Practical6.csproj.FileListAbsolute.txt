@@ -1,0 +1,10 @@
+C:\Users\50387405\Practical6\Practical6\bin\Debug\Practical6.exe.config
+C:\Users\50387405\Practical6\Practical6\bin\Debug\Practical6.exe
+C:\Users\50387405\Practical6\Practical6\bin\Debug\Practical6.pdb
+C:\Users\50387405\Practical6\Practical6\obj\Debug\Practical6.csproj.AssemblyReference.cache
+C:\Users\50387405\Practical6\Practical6\obj\Debug\Practical6.frmAbahambeLift.resources
+C:\Users\50387405\Practical6\Practical6\obj\Debug\Practical6.Properties.Resources.resources
+C:\Users\50387405\Practical6\Practical6\obj\Debug\Practical6.csproj.GenerateResource.cache
+C:\Users\50387405\Practical6\Practical6\obj\Debug\Practical6.csproj.CoreCompileInputs.cache
+C:\Users\50387405\Practical6\Practical6\obj\Debug\Practical6.exe
+C:\Users\50387405\Practical6\Practical6\obj\Debug\Practical6.pdb
